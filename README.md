@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Muail07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Accounting Firm Website
 
-<!---
-Muail07/Muail07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a modern, animated, and responsive website for an accounting firm built with React.js, GSAP, and Styled-Components.
+
+## Features
+
+- Smooth animations with GSAP
+- Responsive design
+- Modular components
+- Contact form with Axios for API requests
+
+## Project Structure
+
